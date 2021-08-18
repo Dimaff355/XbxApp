@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">XbxApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_xbx">
+        <![CDATA[
+<html>
+<body>
+<p>Компания "Хозбытхим" работает с 1994 года</p>
+</body>
+</html>
+]]>
+    </string>
 </resources>
